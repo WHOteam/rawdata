@@ -3,7 +3,7 @@ Afghanistan,China 76; Iran 936; Pakistan 2430; Tajikistan 1206; Turkmenistan 744
 Albania,Greece 282; Macedonia 151; Montenegro 172; Kosovo 112
 Algeria,Libya 982; Mali 1376; Mauritania 463; Morocco 1601; Niger 956; Tunisia 965
 Andorra,France 56.6; Spain 63.7
-Angola,"Congo, Democratic Republic of The 2511; Congo, Republic of The 201; Namibia 1376; Zambia 1110"
+Angola,Democratic Republic of the Congo 2511; Republic of the Congo 201; Namibia 1376; Zambia 1110
 Antigua and Barbuda,
 Argentina,Bolivia 832; Brazil 1261; Chile 5308; Paraguay 1880; Uruguay 580
 Armenia,Azerbaijan 787; Georgia 164; Iran 35; Turkey 268
@@ -27,19 +27,19 @@ Brunei,Malaysia 381
 Bulgaria,Greece 494; Macedonia 148; Romania 608; Serbia 318; Turkey 240
 Burkina Faso,Benin 306; Cote d'Ivoire 584; Ghana 549; Mali 1000; Niger 628; Togo 126
 Burma,Bangladesh 193; China 2185; India 1463; Laos 235; Thailand 1800
-Burundi,"Congo, Democratic Republic of The 233; Rwanda 290; Tanzania 451"
+Burundi,Democratic Republic of the Congo 233; Rwanda 290; Tanzania 451
 Cambodia,Laos 541; Thailand 803; Vietnam 1228
-Cameroon,"Central African Republic 797; Chad 1094; Congo, Republic of The 523; Equatorial Guinea 189; Gabon 298; Nigeria 1690"
+Cameroon,Central African Republic 797; Chad 1094; Republic of the Congo 523; Equatorial Guinea 189; Gabon 298; Nigeria 1690
 Canada,United States 8893
 Cape Verde,
-Central African Republic,"Cameroon 797; Chad 1197; Congo, Democratic Republic of The 1577; Congo, Republic of The 467; South Sudan 990; Sudan 175"
+Central African Republic,Cameroon 797; Chad 1197; Democratic Republic of the Congo 1577; Republic of the Congo 467; South Sudan 990; Sudan 175
 Chad,Cameroon 1094; Central African Republic 1197; Libya 1055; Niger 1175; Nigeria 87; Sudan 1360
 Chile,Argentina 5308; Bolivia 860; Peru 171
-China,"Afghanistan 76; Bhutan 470; Burma 2185; India 3380; Kazakhstan 1533; Korea, North 1416; Kyrgyzstan 858; Laos 423; Mongolia 4677; Nepal 1236; Pakistan 523; Russia 3645; Tajikistan 414; Vietnam 1281"
+China,Afghanistan 76; Bhutan 470; Burma 2185; India 3380; Kazakhstan 1533; North Korea 1416; Kyrgyzstan 858; Laos 423; Mongolia 4677; Nepal 1236; Pakistan 523; Russia 3645; Tajikistan 414; Vietnam 1281
 Colombia,Brazil 1644; Ecuador 590; Panama 225; Peru 1800; Venezuela 2050
 Comoros,
-"Congo, Democratic Republic of The","Angola 2511; Burundi 233; Central African Republic 1577; Congo, Republic of The 2410; Rwanda 217; South Sudan 628; Tanzania 459; Uganda 765; Zambia 1930"
-"Congo, Republic of The ","Angola 201; Cameroon 523; Central African Republic 467; Congo, Democratic Republic of The 2410; Gabon 1903"
+Democratic Republic of the Congo,Angola 2511; Burundi 233; Central African Republic 1577; Republic of the Congo 2410; Rwanda 217; South Sudan 628; Tanzania 459; Uganda 765; Zambia 1930
+Republic of the Congo ,Angola 201; Cameroon 523; Central African Republic 467; Democratic Republic of the Congo 2410; Gabon 1903
 Costa Rica,Nicaragua 309; Panama 330
 Cote d'Ivoire,Burkina Faso 584; Ghana 668; Guinea 610; Liberia 716; Mali 532
 Croatia,Bosnia and Herzegovina 932; Hungary 329; Serbia 241; Montenegro 25; Slovenia 455
@@ -60,8 +60,8 @@ Ethiopia,Djibouti 349; Eritrea 912; Kenya 861; Somalia 1600; South Sudan 837; Su
 Fiji,
 Finland,Norway 727; Sweden 614; Russia 1313
 France,Andorra 56.6; Belgium 620; Germany 451; Italy 488; Luxembourg 73; Monaco 4.4; Spain 623; Switzerland 573
-Gabon,"Cameroon 298; Congo, Republic of The 1903; Equatorial Guinea 350"
-"Gambia, The",Senegal 740
+Gabon,Cameroon 298; Republic of the Congo 1903; Equatorial Guinea 350
+The Gambia,Senegal 740
 Georgia,Armenia 164; Azerbaijan 322; Russia 723; Turkey 252
 Germany,Austria 784; Belgium 167; Czech Republic 815; Denmark 68; France 451; Luxembourg 138; Netherlands 577; Poland 456; Switzerland 334
 Ghana,Burkina Faso 549; Cote d'Ivoire 668; Togo 877
@@ -88,8 +88,8 @@ Jordan,Iraq 181; Israel 238; Saudi Arabia 744; Syria 375
 Kazakhstan,China 1533; Kyrgyzstan 1224; Russia 6846; Turkmenistan 379; Uzbekistan 2203
 Kenya,Ethiopia 861; Somalia 682; South Sudan 232; Tanzania 769; Uganda 933
 Kiribati,
-"Korea, North","China 1416; Korea, South 238; Russia 17.5"
-"Korea, South","Korea, North 238"
+North Korea,China 1416; South Korea 238; Russia 17.5
+South Korea,North Korea 238
 Kosovo,Albania 112; Macedonia 159; Montenegro 79; Serbia 352
 Kuwait,Iraq 240; Saudia Arabia 222
 Kyrgyzstan,China 858; Kazakhstan 1224; Tajikistan 870; Uzbekistan 1099
@@ -113,7 +113,7 @@ Marshall Islands,
 Mauritania,Algeria 463; Mali 2237; Senegal 813; Morocco 1561
 Mauritius,
 Mexico,Belize 250; Guatemala 962; United States 3141
-"Micronesia, Federated States of",
+Federated States of Micronesia,
 Moldova,Romania 450; Ukraine 940
 Monaco,France 4.4
 Mongolia,China 4677; Russia 3543
@@ -141,15 +141,15 @@ Poland,Belarus 605; Czech Republic 615; Germany 456; Lithuania 91; Russia 432; S
 Portugal,Spain 1214
 Qatar,Saudia Arabia 60
 Romania,Bulgaria 608; Hungary 443; Moldova 450; Serbia 476; Ukraine 531
-Russia,"Azerbaijan 284; Belarus 959; China 3645; Estonia 290; Finland 1313; Georgia 723; Kazakhstan 6846; Korea, North 17.5; Latvia 292; Lithuania 227; Mongolia 3441; Norway 196; Poland 432; Ukraine 1576"
-Rwanda,"Burundi 290; Congo, Democratic Republic of The 217; Tanzania 217; Uganda 169"
+Russia,Azerbaijan 284; Belarus 959; China 3645; Estonia 290; Finland 1313; Georgia 723; Kazakhstan 6846; North Korea 17.5; Latvia 292; Lithuania 227; Mongolia 3441; Norway 196; Poland 432; Ukraine 1576
+Rwanda,Burundi 290; Democratic Republic of the Congo 217; Tanzania 217; Uganda 169
 Saint Kitts and Nevis,
 Saint Lucia,
 Saint Vincent and the Grenadines,
 Samoa,
 Sao Tome and Principe,
 Saudi Arabia,Iraq 814; Jordan 744; Kuwait 222; Oman 676; Qatar 60; United Arab Emirates 457; Yemen 1458
-Senegal,"Gambia, The 740; Guinea 330; Guinea-Bissau 338; Mali 419; Mauritania 813"
+Senegal,The Gambia 740; Guinea 330; Guinea-Bissau 338; Mali 419; Mauritania 813
 Serbia,Bosnia and Herzegovina 302; Bulgaria 318; Croatia 241; Hungary 151; Kosovo 352; Macedonia 62; Montenegro 124; Romania 476
 Seychelles,
 Sierra Leone,Guinea 652; Liberia 306
@@ -159,7 +159,7 @@ Slovenia,Austria 330; Croatia 455; Hungary 102; Italy 199
 Solomon Islands,
 Somalia,Djibouti 58; Ethiopia 1600; Kenya 682
 South Africa,Botswana 1840; Lesotho 909; Mozambique 491; Namibia 967; Swaziland 430; Zimbabwe 225
-South Sudan,"Central African Republic 989; Congo, Democratic Republic of The 639; Ethiopia 934; Kenya 232; Sudan 2184; Uganda 435"
+South Sudan,Central African Republic 989; Democratic Republic of the Congo 639; Ethiopia 934; Kenya 232; Sudan 2184; Uganda 435
 Spain,Andorra 63.7; France 623; Portugal 1214; Morocco 15.9
 Sri Lanka,
 Sudan,Central African Republic 175; Chad 1360; Egypt 1275; Eritrea 605; Ethiopia 769; Libya 383; South Sudan 2184
@@ -170,7 +170,7 @@ Switzerland,Austria 164; France 573; Italy 740; Liechtenstein 41; Germany 334
 Syria,Iraq 605; Israel 76; Jordan 375; Lebanon 375; Turkey 822
 Taiwan,
 Tajikistan,Afghanistan 1206; China 414; Kyrgyzstan 870; Uzbekistan 1161
-Tanzania,"Burundi 451; Congo, Democratic Republic of The 459; Kenya 769; Malawi 475; Mozambique 756; Rwanda 217; Uganda 396; Zambia 338"
+Tanzania,Burundi 451; Democratic Republic of the Congo 459; Kenya 769; Malawi 475; Mozambique 756; Rwanda 217; Uganda 396; Zambia 338
 Thailand,Burma 1800; Cambodia 803; Laos 1754; Malaysia 506
 Timor-Leste,Indonesia 228
 Togo,Benin 644; Burkina Faso 126; Ghana 877
@@ -179,7 +179,7 @@ Trinidad and Tobago,
 Tunisia,Algeria 965; Libya 459
 Turkey,Armenia 268; Azerbaijan 9; Bulgaria 240; Georgia 252; Greece 206; Iran 499; Iraq 352; Syria 822
 Turkmenistan,Afghanistan 744; Iran 992; Kazakhstan 379; Uzbekistan 1621
-Uganda,"Congo, Democratic Republic of The 765; Kenya 933; Rwanda 169; South Sudan 435; Tanzania 396"
+Uganda,Democratic Republic of the Congo 765; Kenya 933; Rwanda 169; South Sudan 435; Tanzania 396
 Ukraine,Belarus 891; Hungary 103; Moldova 940; Poland 428; Romania 538; Russia 1576; Slovakia 90
 United Arab Emirates,Oman 410; Saudi Arabia 457
 United Kingdom,Ireland 360
@@ -190,5 +190,5 @@ Vanuatu,
 Venezuela,Brazil 2200; Colombia 2050; Guyana 743
 Vietnam,Cambodia 1228; China 1281; Laos 2130
 Yemen,Oman 288; Saudi Arabia 1458
-Zambia,"Angola 1110; Congo, Democratic Republic of The 1930; Malawi 837; Mozambique 419; Namibia 233; Tanzania 338; Zimbabwe 797"
+Zambia,Angola 1110; Democratic Republic of the Congo 1930; Malawi 837; Mozambique 419; Namibia 233; Tanzania 338; Zimbabwe 797
 Zimbabwe,Botswana 813; Mozambique 1231; South Africa 225; Zambia 797
