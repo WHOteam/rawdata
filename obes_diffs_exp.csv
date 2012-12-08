@@ -1,0 +1,893 @@
+country1,country2,obes_diff
+Afghanistan,Bangladesh,0.014830918
+Afghanistan,India,0.005169082
+Afghanistan,Pakistan,0.019732189
+Afghanistan,Russia,0.225169082
+Afghanistan,Tajikistan,0.070623627
+Afghanistan,United States,0.324169082
+Albania,China,0.186380711
+Albania,Greece,0.009619289
+Albania,India,0.195380711
+Albania,Italy,0.117380711
+Albania,Spain,0.059380711
+Albania,Turkey,0.054380711
+Algeria,Brazil,0.00149505
+Algeria,Canada,0.12149505
+Algeria,France,0.05949505
+Algeria,Italy,0.01150495
+Algeria,Netherlands,0.015545555
+Algeria,Spain,0.04649505
+Algeria,United States,0.22949505
+Angola,Canada,0.175467005
+Angola,China,0.026532995
+Angola,India,0.035532995
+Angola,United States,0.283467005
+Argentina,Brazil,0.264102041
+Argentina,Chile,0.156102041
+Argentina,China,0.346102041
+Argentina,United States,0.036102041
+Armenia,Belgium,0.054780749
+Armenia,Bulgaria,0.038780749
+Armenia,Canada,0.068219251
+Armenia,Georgia,0.044579691
+Armenia,Germany,0.033780749
+Armenia,Iran,0.020780749
+Armenia,Netherlands,0.037730244
+Armenia,Russia,0.077219251
+Armenia,Spain,0.006780749
+Armenia,United States,0.176219251
+Australia,China,0.135
+Australia,India,0.144
+Australia,Japan,0.133
+Australia,South Korea,0.132
+Austria,France,0.059
+Austria,Germany,0.019
+Austria,Italy,0.012
+Austria,Switzerland,0.028
+Azerbaijan,Czech Republic,0.050020408
+Azerbaijan,France,0.032020408
+Azerbaijan,Germany,0.072020408
+Azerbaijan,Indonesia,0.177020408
+Azerbaijan,Italy,0.103020408
+Azerbaijan,United States,0.137979592
+The Bahamas,Dominica,0.105
+The Bahamas,Dominican Republic,0.040696517
+The Bahamas,Ecuador,0.155
+The Bahamas,Singapore,0.221
+The Bahamas,Switzerland,0.208
+The Bahamas,United States,0.049
+Bahrain,India,0.262340426
+Bahrain,Japan,0.251340426
+Bahrain,South Korea,0.250340426
+Bahrain,Qatar,0.060399394
+Bahrain,Saudi Arabia,0.073659574
+Bahrain,United States,0.056659574
+Bangladesh,France,0.169
+Bangladesh,Germany,0.129
+Bangladesh,Italy,0.098
+Bangladesh,Netherlands,0.125050505
+Bangladesh,Spain,0.156
+Bangladesh,United States,0.339
+Barbados,Antigua and Barbuda,0.211991318
+Barbados,France,0.231412371
+Barbados,Saint Kitts and Nevis,0.204755805
+Barbados,Saint Lucia,0.137147065
+Barbados,Saint Vincent and the Grenadines,0.246055935
+Barbados,Trinidad and Tobago,0.036053397
+Barbados,United States,0.061412371
+Barbados,Venezuela,0.070412371
+Belarus,Germany,0.116561497
+Belarus,Latvia,0.089561497
+Belarus,Netherlands,0.120510992
+Belarus,Russia,0.005561497
+Belarus,Ukraine,0.111045368
+Belgium,France,0.061
+Belgium,Germany,0.021
+Belgium,Italy,0.01
+Belgium,Netherlands,0.017050505
+Belgium,United States,0.231
+Belize,Costa Rica,0.089707359
+Belize,Niger,0.129405941
+Belize,Nigeria,0.094405941
+Belize,United States,0.189594059
+Benin,China,0.04050495
+Benin,India,0.04950495
+Benin,Indonesia,0.04550495
+Benin,Niger,0.04950495
+Benin,Nigeria,0.01450495
+Benin,Singapore,0.00050495
+Bolivia,Argentina,0.079574403
+Bolivia,Brazil,0.184527638
+Bolivia,Japan,0.264527638
+Bolivia,South Korea,0.263527638
+Bolivia,Peru,0.132527638
+Bolivia,United States,0.043472362
+Bosnia and Herzegovina,Austria,0.107
+Bosnia and Herzegovina,Croatia,0.006
+Bosnia and Herzegovina,Germany,0.088
+Bosnia and Herzegovina,Italy,0.119
+Bosnia and Herzegovina,Slovenia,0.067
+Brazil,Argentina,0.264102041
+Brazil,China,0.082
+Brazil,Netherlands,0.014050505
+Brazil,United States,0.228
+Brunei,Australia,0.136
+Brunei,China,0.271
+Brunei,India,0.28
+Brunei,Indonesia,0.276
+Brunei,Japan,0.269
+Brunei,South Korea,0.268
+Bulgaria,Belgium,0.016
+Bulgaria,France,0.045
+Bulgaria,Germany,0.005
+Bulgaria,Greece,0.101
+Bulgaria,Italy,0.026
+Bulgaria,Romania,0.038
+Bulgaria,Turkey,0.037
+Burkina Faso,China,0.014
+Burkina Faso,Indonesia,0.009
+Burkina Faso,Malaysia,0.148
+Burkina Faso,Singapore,0.054
+Burkina Faso,Thailand,0.063
+Burkina Faso,Turkey,0.146
+Burma,China,0.081
+Burma,India,0.09
+Burma,Japan,0.079
+Burma,Thailand,0.032
+Burundi,Belgium,0.097795918
+Burundi,China,0.018795918
+Burundi,France,0.158795918
+Burundi,Germany,0.118795918
+Burundi,Pakistan,0.024359025
+Burundi,Sweden,0.109795918
+Burundi,United States,0.328795918
+Cambodia,Canada,0.226102041
+Cambodia,Germany,0.124102041
+Cambodia,Japan,0.026102041
+Cambodia,United States,0.334102041
+Cambodia,Vietnam,0.000102041
+Cameroon,Belgium,0.012
+Cameroon,China,0.091
+Cameroon,France,0.049
+Cameroon,Germany,0.009
+Cameroon,India,0.1
+Cameroon,Italy,0.022
+Cameroon,Netherlands,0.005050505
+Cameroon,Spain,0.036
+Cameroon,United States,0.219
+Canada,United States,0.108
+Cape Verde,Portugal,0.035125
+Cape Verde,Spain,0.049125
+Central African Republic,Belgium,0.097847716
+Central African Republic,China,0.018847716
+Central African Republic,Democratic Republic of the Congo,0.000152284
+Central African Republic,Republic of the Congo,0.019847716
+Central African Republic,France,0.158847716
+Central African Republic,Indonesia,0.013847716
+Central African Republic,Morocco,0.149847716
+Chad,China,0.008949749
+Chad,France,0.148949749
+Chad,United States,0.318949749
+Chile,Brazil,0.108
+Chile,China,0.19
+Chile,Japan,0.188
+Chile,South Korea,0.187
+Chile,Netherlands,0.093949495
+Chile,United States,0.12
+China,China,0
+China,Germany,0.1
+China,Japan,0.002
+China,South Korea,0.003
+China,United States,0.31
+Colombia,China,0.108
+Colombia,Ecuador,0.002
+Colombia,United States,0.202
+Comoros,France,0.109199005
+Comoros,India,0.039800995
+Comoros,Netherlands,0.06524951
+Comoros,Singapore,0.009199005
+Comoros,Turkey,0.101199005
+Democratic Republic of the Congo,Belgium,0.098
+Democratic Republic of the Congo,China,0.019
+Democratic Republic of the Congo,United States,0.329
+Democratic Republic of the Congo,Zambia,0
+Republic of the Congo,Australia,0.134
+Republic of the Congo,China,0.001
+Republic of the Congo,France,0.139
+Republic of the Congo,Italy,0.068
+Republic of the Congo,Netherlands,0.095050505
+Republic of the Congo,Spain,0.126
+Republic of the Congo,United States,0.309
+Costa Rica,China,0.2101133
+Costa Rica,Mexico,0.0031133
+Costa Rica,Netherlands,0.114062795
+Costa Rica,United States,0.0998867
+Cote d'Ivoire,Canada,0.201588235
+Cote d'Ivoire,France,0.139588235
+Cote d'Ivoire,Germany,0.099588235
+Cote d'Ivoire,Netherlands,0.09563874
+Cote d'Ivoire,Niger,0.009411765
+Cote d'Ivoire,Nigeria,0.025588235
+Cote d'Ivoire,South Africa,0.197796357
+Cote d'Ivoire,United States,0.309588235
+Croatia,Austria,0.113
+Croatia,Bosnia and Herzegovina,0.006
+Croatia,Germany,0.094
+Croatia,Italy,0.125
+Croatia,Slovenia,0.073
+Cuba,Canada,0.113
+Cuba,China,0.089
+Cuba,Netherlands,0.007050505
+Cuba,Spain,0.038
+Cuba,Venezuela,0.212
+Cyprus,Germany,0.006
+Cyprus,Greece,0.102
+Czech Republic,Austria,0.041
+Czech Republic,France,0.018
+Czech Republic,Germany,0.022
+Czech Republic,Italy,0.053
+Czech Republic,Poland,0.029
+Czech Republic,Slovakia,0.008
+Denmark,France,0.055
+Denmark,Germany,0.015
+Denmark,Netherlands,0.011050505
+Denmark,Norway,0.014
+Denmark,Sweden,0.006
+Denmark,United States,0.225
+Djibouti,Egypt,0.258
+Djibouti,Somalia,0.02489899
+Djibouti,Sudan,0.000124378
+Dominica,Antigua and Barbuda,0.206578947
+Dominica,Guyana,0.261341463
+Dominica,Jamaica,0.110918367
+Dominica,Japan,0.364
+Dominica,Trinidad and Tobago,0.030641026
+Dominican Republic,Haiti,0.138293382
+Dominican Republic,United States,0.089696517
+Ecuador,Chile,0.084
+Ecuador,Panama,0.024405941
+Ecuador,Peru,0.028
+Ecuador,Russia,0.105
+Ecuador,United States,0.204
+Ecuador,Venezuela,0.195
+Egypt,France,0.134
+Egypt,India,0.283
+Egypt,Italy,0.205
+Egypt,Saudi Arabia,0.053
+Egypt,Spain,0.147
+Egypt,Turkey,0.142
+Egypt,United States,0.036
+El Salvador,Germany,0.019201058
+El Salvador,Guatemala,0.138978429
+El Salvador,Honduras,0.033201058
+El Salvador,Nicaragua,0.138061568
+El Salvador,United States,0.190798942
+Equatorial Guinea,Brazil,0.019505051
+Equatorial Guinea,Canada,0.100494949
+Equatorial Guinea,China,0.101505051
+Equatorial Guinea,France,0.038494949
+Equatorial Guinea,Italy,0.032505051
+Equatorial Guinea,Japan,0.099505051
+Equatorial Guinea,South Korea,0.098505051
+Equatorial Guinea,Netherlands,0.005454546
+Equatorial Guinea,Spain,0.025494949
+Equatorial Guinea,United States,0.208494949
+Eritrea,China,0.004
+Eritrea,Egypt,0.27
+Eritrea,Italy,0.065
+Eritrea,Saudi Arabia,0.323
+Eritrea,Sudan,0.011875622
+Estonia,Finland,0.013
+Estonia,Germany,0.015
+Estonia,Latvia,0.012
+Estonia,Lithuania,0.053
+Estonia,Russia,0.096
+Estonia,Sweden,0.024
+Ethiopia,Belgium,0.108
+Ethiopia,China,0.029
+Ethiopia,Germany,0.129
+Ethiopia,Italy,0.098
+Ethiopia,Saudi Arabia,0.356
+Ethiopia,United States,0.339
+Fiji,Australia,0.075
+Fiji,Japan,0.208
+Fiji,Samoa,0.271909091
+Fiji,Tonga,0.321
+Fiji,United States,0.1
+Finland,China,0.128
+Finland,Germany,0.028
+Finland,Netherlands,0.031949495
+Finland,Russia,0.083
+Finland,Sweden,0.037
+France,Belgium,0.061
+France,Germany,0.04
+France,Italy,0.071
+France,Netherlands,0.043949495
+France,Spain,0.013
+France,United States,0.17
+Gabon,Australia,0.054
+Gabon,China,0.081
+Gabon,Japan,0.079
+Gabon,Malaysia,0.053
+Gabon,Spain,0.046
+Gabon,United States,0.229
+The Gambia,China,0.011
+The Gambia,France,0.129
+The Gambia,India,0.02
+Georgia,Armenia,0.044579691
+Georgia,Azerbaijan,0.08281935
+Georgia,Bulgaria,0.005798942
+Georgia,Canada,0.112798942
+Georgia,Kazakhstan,0.022494252
+Georgia,Turkey,0.042798942
+Georgia,Ukraine,0.016315071
+Georgia,United States,0.220798942
+Germany,Austria,0.019
+Germany,Belgium,0.021
+Germany,China,0.1
+Germany,France,0.04
+Germany,Italy,0.031
+Germany,Netherlands,0.003949495
+Germany,Switzerland,0.047
+Germany,United States,0.21
+Ghana,France,0.114073892
+Ghana,India,0.034926108
+Ghana,Italy,0.043073892
+Ghana,Netherlands,0.070124397
+Ghana,United States,0.284073892
+Greece,Belgium,0.117
+Greece,Bulgaria,0.101
+Greece,China,0.196
+Greece,Cyprus,0.102
+Greece,Germany,0.096
+Greece,Italy,0.127
+Greece,Poland,0.045
+Greece,Switzerland,0.143
+Greece,Turkey,0.064
+Greece,United States,0.114
+Grenada,Antigua and Barbuda,0.013421053
+Grenada,Dominica,0.22
+Grenada,Saint Kitts and Nevis,0.020656566
+Grenada,Saint Lucia,0.088265306
+Grenada,United States,0.164
+Guatemala,El Salvador,0.138978429
+Guatemala,Honduras,0.172179487
+Guatemala,Mexico,0.051179487
+Guatemala,United States,0.051820513
+Guinea,Chile,0.17929703
+Guinea,Germany,0.08929703
+Guinea,India,0.01970297
+Guinea,Ireland,0.09029703
+Guinea,Russia,0.20029703
+Guinea,Spain,0.11629703
+Guinea,Ukraine,0.094813159
+Guinea,United States,0.29929703
+Guinea-Bissau,India,0.005151515
+Guinea-Bissau,Niger,0.005151515
+Guinea-Bissau,Nigeria,0.029848485
+Guyana,Canada,0.097341463
+Guyana,Jamaica,0.150423096
+Guyana,Netherlands,0.008608032
+Guyana,Trinidad and Tobago,0.230700437
+Guyana,United States,0.205341463
+Haiti,United States,0.227989899
+Honduras,Belgium,0.007
+Honduras,El Salvador,0.033201058
+Honduras,Germany,0.014
+Honduras,Guatemala,0.172179487
+Honduras,United States,0.224
+Hungary,Austria,0.067
+Hungary,France,0.008
+Hungary,Germany,0.048
+Hungary,Italy,0.079
+Hungary,Romania,0.091
+Hungary,Slovakia,0.034
+Iceland,Germany,0.005
+Iceland,Netherlands,0.001050505
+Iceland,Norway,0.024
+India,China,0.009
+India,Singapore,0.049
+India,United States,0.319
+Indonesia,China,0.005
+Indonesia,India,0.004
+Indonesia,Japan,0.007
+Indonesia,South Korea,0.008
+Indonesia,Malaysia,0.139
+Indonesia,Singapore,0.045
+Indonesia,United States,0.315
+Iran,China,0.113
+Iran,India,0.122
+Iran,Italy,0.044
+Iran,Japan,0.111
+Iran,South Korea,0.11
+Iran,Turkey,0.019
+Iraq,China,0.105455446
+Iraq,India,0.114455446
+Iraq,Japan,0.103455446
+Iraq,South Korea,0.102455446
+Iraq,Netherlands,0.009404941
+Iraq,United States,0.204544554
+Ireland,Belgium,0.022
+Ireland,France,0.039
+Ireland,Germany,0.001
+Ireland,Switzerland,0.048
+Ireland,United States,0.209
+Israel,Belgium,0.121
+Israel,China,0.2
+Israel,India,0.209
+Israel,United States,0.11
+Italy,France,0.071
+Italy,Germany,0.031
+Italy,Spain,0.058
+Italy,Switzerland,0.016
+Italy,United States,0.241
+Jamaica,Canada,0.053081633
+Jamaica,Netherlands,0.159031128
+Jamaica,Norway,0.184081633
+Jamaica,United States,0.054918367
+Japan,China,0.002
+Japan,South Korea,0.001
+Japan,Thailand,0.047
+Japan,United States,0.308
+Jordan,India,0.175
+Jordan,Iraq,0.060544554
+Jordan,Lebanon,0.06
+Jordan,Saudi Arabia,0.161
+Jordan,United States,0.144
+Kazakhstan,Canada,0.135293194
+Kazakhstan,China,0.066706806
+Kazakhstan,France,0.073293194
+Kazakhstan,Germany,0.033293194
+Kazakhstan,Italy,0.002293194
+Kazakhstan,Romania,0.009706806
+Kazakhstan,Russia,0.144293194
+Kenya,Democratic Republic of the Congo,0
+Kenya,Republic of the Congo,0.02
+Kenya,Egypt,0.293
+Kenya,Netherlands,0.115050505
+Kenya,Tanzania,0.03
+Kenya,Uganda,0
+Kenya,United States,0.329
+North Korea,Bangladesh,0.13
+North Korea,China,0.101
+North Korea,South Korea,0.098
+South Korea,China,0.003
+South Korea,Japan,0.001
+South Korea,United States,0.307
+Kuwait,China,0.259
+Kuwait,India,0.268
+Kuwait,Japan,0.257
+Kuwait,South Korea,0.256
+Kuwait,United States,0.051
+Kyrgyzstan,Afghanistan,0.080854361
+Kyrgyzstan,China,0.066685279
+Kyrgyzstan,Kazakhstan,2.15E-05
+Kyrgyzstan,Russia,0.144314721
+Kyrgyzstan,Turkey,0.065314721
+Kyrgyzstan,Uzbekistan,0.029591103
+Laos,China,0.017
+Laos,Thailand,0.066
+Laos,Vietnam,0.007
+Latvia,Estonia,0.012
+Latvia,Germany,0.027
+Latvia,Lithuania,0.041
+Latvia,Poland,0.024
+Latvia,Russia,0.084
+Latvia,Sweden,0.036
+Lebanon,Iraq,0.000544554
+Lebanon,Saudi Arabia,0.221
+Lebanon,Switzerland,0.053
+Lebanon,Syria,0.115
+Lebanon,Turkey,0.026
+Lesotho,Belgium,0.09189418
+Lesotho,Canada,0.03110582
+Lesotho,United States,0.13910582
+Liberia,Canada,0.140798995
+Liberia,China,0.061201005
+Liberia,Cote d'Ivoire,0.06078924
+Liberia,Germany,0.038798995
+Liberia,Japan,0.059201005
+Liberia,Spain,0.065798995
+Liberia,United States,0.248798995
+Libya,China,0.221
+Libya,France,0.081
+Libya,Germany,0.121
+Libya,Italy,0.152
+Libya,Spain,0.094
+Libya,Tunisia,0.045621891
+Lithuania,Belarus,0.048561497
+Lithuania,Estonia,0.053
+Lithuania,Germany,0.068
+Lithuania,Latvia,0.041
+Lithuania,Netherlands,0.071949495
+Lithuania,Poland,0.017
+Lithuania,Russia,0.043
+Luxembourg,Belgium,0.05220202
+Luxembourg,France,0.00879798
+Luxembourg,Germany,0.03120202
+Luxembourg,Italy,0.06220202
+Luxembourg,Netherlands,0.035151515
+Luxembourg,Switzerland,0.07820202
+Macedonia,Bulgaria,0.026
+Macedonia,Germany,0.021
+Macedonia,Greece,0.075
+Macedonia,Italy,0.052
+Madagascar,China,0.008
+Madagascar,France,0.148
+Madagascar,Germany,0.108
+Madagascar,Indonesia,0.003
+Madagascar,Singapore,0.048
+Madagascar,United States,0.318
+Malawi,Canada,0.215974874
+Malawi,China,0.013974874
+Malawi,Egypt,0.287974874
+Malawi,Germany,0.113974874
+Malawi,Russia,0.224974874
+Malawi,South Africa,0.212182996
+Malawi,United States,0.323974874
+Malawi,Zimbabwe,0.141974874
+Malaysia,China,0.134
+Malaysia,India,0.143
+Malaysia,Japan,0.132
+Malaysia,Singapore,0.094
+Malaysia,Thailand,0.085
+Malaysia,United States,0.176
+Maldives,France,0.004841584
+Maldives,Germany,0.035158416
+Maldives,India,0.144158416
+Maldives,Italy,0.066158416
+Maldives,Sri Lanka,0.164158416
+Maldives,Thailand,0.086158416
+Mali,Bangladesh,0.045353535
+Mali,China,0.016353535
+Mali,Indonesia,0.021353535
+Mali,South Korea,0.013353535
+Mali,Malaysia,0.117646465
+Mali,Thailand,0.032646465
+Mauritania,Belgium,0.050374384
+Mauritania,China,0.129374384
+Mauritania,Cote d'Ivoire,0.128962619
+Mauritania,France,0.010625616
+Mauritania,Italy,0.060374384
+Mauritania,Japan,0.127374384
+Mauritania,Netherlands,0.033323879
+Mauritania,Spain,0.002374384
+Mexico,United States,0.103
+Moldova,Germany,0.021
+Moldova,Italy,0.052
+Moldova,Romania,0.064
+Moldova,Russia,0.09
+Moldova,Ukraine,0.015483871
+Mongolia,Canada,0.133
+Mongolia,China,0.069
+Mongolia,Russia,0.142
+Morocco,Brazil,0.049
+Morocco,France,0.009
+Morocco,India,0.14
+Morocco,Spain,0.004
+Morocco,United States,0.179
+Mozambique,Belgium,0.092615385
+Mozambique,China,0.013615385
+Mozambique,Italy,0.082615385
+Mozambique,South Africa,0.211823507
+Mozambique,Spain,0.140615385
+Nepal,Germany,0.129
+Nepal,India,0.02
+Nepal,United States,0.339
+Netherlands,Belgium,0.017050505
+Netherlands,France,0.043949495
+Netherlands,Germany,0.003949495
+Netherlands,Italy,0.027050505
+New Zealand,Australia,0.101
+New Zealand,China,0.236
+New Zealand,Japan,0.234
+New Zealand,United States,0.074
+Nicaragua,Canada,0.055262626
+Nicaragua,El Salvador,0.138061568
+Nicaragua,United States,0.052737374
+Niger,Ghana,0.034926108
+Niger,Niger,0
+Niger,Nigeria,0.035
+Niger,Russia,0.22
+Niger,United States,0.319
+Nigeria,Brazil,0.056
+Nigeria,France,0.114
+Nigeria,India,0.035
+Nigeria,Netherlands,0.070050505
+Nigeria,Spain,0.101
+Nigeria,United States,0.284
+Norway,France,0.069
+Norway,Germany,0.029
+Norway,Netherlands,0.025050505
+Norway,Sweden,0.02
+Norway,United States,0.239
+Oman,China,0.09030131
+Oman,India,0.09930131
+Oman,Japan,0.08830131
+Oman,South Korea,0.08730131
+Oman,Thailand,0.04130131
+Oman,United States,0.21969869
+Pakistan,Afghanistan,0.019732189
+Pakistan,China,0.005563107
+Pakistan,Germany,0.094436893
+Pakistan,United States,0.304436893
+Papua New Guinea,Australia,0.119221675
+Papua New Guinea,China,0.015778325
+Papua New Guinea,Japan,0.013778325
+Paraguay,Argentina,0.2356961
+Paraguay,Brazil,0.028405941
+Paraguay,Chile,0.079594059
+Paraguay,Germany,0.010405941
+Paraguay,Netherlands,0.014355436
+Paraguay,Russia,0.100594059
+Paraguay,Uruguay,0.141319448
+Peru,Canada,0.068
+Peru,Chile,0.056
+Peru,China,0.134
+Peru,Germany,0.034
+Peru,Japan,0.132
+Peru,South Korea,0.131
+Peru,Spain,0.007
+Peru,United States,0.176
+Philippines,China,0.014
+Philippines,Japan,0.012
+Philippines,South Korea,0.011
+Philippines,Singapore,0.026
+Philippines,United States,0.296
+Poland,Czech Republic,0.029
+Poland,France,0.011
+Poland,Germany,0.051
+Poland,Italy,0.082
+Poland,Netherlands,0.054949495
+Poland,Russia,0.06
+Portugal,Angola,0.086467005
+Portugal,France,0.027
+Portugal,Germany,0.013
+Portugal,Spain,0.014
+Qatar,India,0.201941032
+Qatar,Japan,0.190941032
+Qatar,South Korea,0.189941032
+Qatar,Singapore,0.152941032
+Romania,France,0.083
+Romania,Germany,0.043
+Romania,Hungary,0.091
+Romania,Italy,0.012
+Romania,Turkey,0.075
+Russia,China,0.211
+Russia,Germany,0.111
+Russia,Italy,0.142
+Russia,Poland,0.06
+Rwanda,China,0.018690722
+Rwanda,Democratic Republic of the Congo,0.000309278
+Rwanda,Republic of the Congo,0.019690722
+Rwanda,Kenya,0.000309278
+Rwanda,Malaysia,0.152690722
+Rwanda,Swaziland,0.10071113
+Rwanda,United States,0.328690722
+Saint Kitts and Nevis,Canada,0.035343434
+Saint Kitts and Nevis,Germany,0.066656566
+Saint Kitts and Nevis,Russia,0.044343434
+Saint Kitts and Nevis,United States,0.143343434
+Saint Lucia,Antigua and Barbuda,0.074844253
+Saint Lucia,Barbados,0.137147065
+Saint Lucia,Colombia,0.126265306
+Saint Lucia,Dominica,0.131734694
+Saint Lucia,Grenada,0.088265306
+Saint Lucia,Peru,0.100265306
+Saint Lucia,Trinidad and Tobago,0.101093668
+Saint Lucia,United States,0.075734694
+Saint Vincent and the Grenadines,Antigua and Barbuda,0.034064617
+Saint Vincent and the Grenadines,Austria,0.044356436
+Saint Vincent and the Grenadines,Barbados,0.246055935
+Saint Vincent and the Grenadines,Dominica,0.240643564
+Saint Vincent and the Grenadines,France,0.014643564
+Saint Vincent and the Grenadines,Grenada,0.020643564
+Saint Vincent and the Grenadines,Saint Lucia,0.10890887
+Saint Vincent and the Grenadines,Trinidad and Tobago,0.210002538
+Saint Vincent and the Grenadines,Turkey,0.006643564
+Samoa,Australia,0.346909091
+Samoa,United States,0.171909091
+Sao Tome and Principe,Belgium,0.072747475
+Sao Tome and Principe,Italy,0.062747475
+Sao Tome and Principe,Netherlands,0.08979798
+Sao Tome and Principe,Niger,0.015252525
+Sao Tome and Principe,Nigeria,0.019747475
+Sao Tome and Principe,United States,0.303747475
+Saudi Arabia,China,0.327
+Saudi Arabia,India,0.336
+Saudi Arabia,Japan,0.325
+Saudi Arabia,South Korea,0.324
+Saudi Arabia,Singapore,0.287
+Saudi Arabia,United States,0.017
+Senegal,France,0.098494949
+Senegal,India,0.050505051
+Senegal,Italy,0.027494949
+Senegal,Mali,0.025151516
+Seychelles,France,0.082
+Seychelles,Italy,0.153
+Seychelles,Japan,0.22
+Sierra Leone,Belgium,0.006461538
+Sierra Leone,China,0.072538462
+Sierra Leone,Netherlands,0.023512043
+Sierra Leone,Romania,0.015538462
+Sierra Leone,Turkey,0.059461538
+Sierra Leone,United States,0.237461538
+Singapore,China,0.04
+Singapore,Indonesia,0.045
+Singapore,Japan,0.038
+Singapore,Malaysia,0.094
+Singapore,United States,0.27
+Slovakia,Austria,0.033
+Slovakia,Czech Republic,0.008
+Slovakia,France,0.026
+Slovakia,Germany,0.014
+Slovakia,Hungary,0.034
+Slovakia,Italy,0.045
+Slovakia,Poland,0.037
+Slovenia,Austria,0.04
+Slovenia,Croatia,0.073
+Slovenia,France,0.019
+Slovenia,Germany,0.021
+Slovenia,Hungary,0.027
+Slovenia,Italy,0.052
+Solomon Islands,Australia,0.050859903
+Solomon Islands,China,0.084140097
+Solomon Islands,Thailand,0.035140097
+Somalia,Oman,0.0992003
+Somalia,Yemen,0.01970097
+South Africa,China,0.198208122
+South Africa,Germany,0.098208122
+South Africa,Japan,0.196208122
+South Africa,United States,0.111791878
+Spain,France,0.013
+Spain,Germany,0.027
+Spain,Italy,0.058
+Spain,Portugal,0.014
+Sri Lanka,Belgium,0.108
+Sri Lanka,Germany,0.129
+Sri Lanka,India,0.02
+Sri Lanka,Italy,0.098
+Sri Lanka,United States,0.339
+Sudan,China,0.015875622
+Suriname,Belgium,0.032
+Suriname,Canada,0.091
+Suriname,France,0.029
+Suriname,Guyana,0.006341463
+Suriname,Norway,0.04
+Sweden,Belgium,0.012
+Sweden,Denmark,0.006
+Sweden,Finland,0.037
+Sweden,France,0.049
+Sweden,Germany,0.009
+Sweden,Netherlands,0.005050505
+Sweden,Norway,0.02
+Sweden,United States,0.219
+Switzerland,China,0.053
+Switzerland,France,0.087
+Switzerland,Germany,0.047
+Switzerland,Italy,0.016
+Switzerland,United States,0.257
+Syria,Germany,0.121
+Syria,Iraq,0.115544554
+Syria,Italy,0.152
+Syria,Kuwait,0.038
+Syria,Saudi Arabia,0.106
+Taiwan,China,0.029
+Taiwan,Japan,0.031
+Taiwan,Singapore,0.069
+Taiwan,United States,0.339
+Tajikistan,Afghanistan,0.070623627
+Tajikistan,China,0.056454545
+Tajikistan,Iran,0.056545455
+Tajikistan,Italy,0.012545455
+Tajikistan,South Korea,0.053454545
+Tajikistan,Russia,0.154545455
+Tajikistan,Turkey,0.075545455
+Tanzania,China,0.011
+Tanzania,Germany,0.089
+Tanzania,India,0.02
+Tanzania,Japan,0.009
+Thailand,China,0.049
+Thailand,Indonesia,0.054
+Thailand,Japan,0.047
+Thailand,Malaysia,0.085
+Thailand,Singapore,0.009
+Thailand,United States,0.261
+Togo,Benin,0.02920192
+Togo,Burkina Faso,0.02530303
+Togo,China,0.01130303
+Togo,Germany,0.08869697
+Togo,Ghana,0.014623078
+Togo,India,0.02030303
+Togo,Indonesia,0.01630303
+Togo,Niger,0.02030303
+Tonga,Brazil,0.449
+Tonga,China,0.531
+Tonga,Fiji,0.321
+Tonga,Japan,0.529
+Tonga,South Korea,0.528
+Tonga,New Zealand,0.295
+Tonga,Samoa,0.049090909
+Tonga,United States,0.221
+Trinidad and Tobago,Jamaica,0.080277341
+Trinidad and Tobago,South Korea,0.332358974
+Trinidad and Tobago,Spain,0.208358974
+Trinidad and Tobago,United States,0.025358974
+Tunisia,France,0.035378109
+Tunisia,Germany,0.075378109
+Tunisia,Italy,0.106378109
+Tunisia,Libya,0.045621891
+Turkey,France,0.008
+Turkey,Germany,0.032
+Turkey,Iraq,0.026544554
+Turkey,Italy,0.063
+Turkey,Russia,0.079
+Turkmenistan,China,0.091456853
+Turkmenistan,Italy,0.022456853
+Turkmenistan,Turkey,0.040543147
+Uganda,Belgium,0.098
+Uganda,Democratic Republic of the Congo,0
+Uganda,Republic of the Congo,0.02
+Uganda,Germany,0.119
+Uganda,Italy,0.088
+Uganda,Kenya,0
+Uganda,Netherlands,0.115050505
+Uganda,Rwanda,0.000309278
+Ukraine,Italy,0.036516129
+Ukraine,Russia,0.105483871
+Ukraine,Turkey,0.026483871
+United Arab Emirates,India,0.317
+United Arab Emirates,Iran,0.195
+United Arab Emirates,Japan,0.306
+United Arab Emirates,South Korea,0.305
+United Arab Emirates,Singapore,0.268
+United Arab Emirates,Thailand,0.259
+United Kingdom,Belgium,0.119
+United Kingdom,France,0.058
+United Kingdom,Germany,0.098
+United Kingdom,Ireland,0.097
+United Kingdom,Netherlands,0.101949495
+United Kingdom,Switzerland,0.145
+United Kingdom,United States,0.112
+United States,Canada,0.108
+United States,China,0.31
+United States,Japan,0.308
+United States,Mexico,0.103
+Uruguay,Argentina,0.094376652
+Uruguay,Brazil,0.169725389
+Uruguay,China,0.251725389
+Uruguay,Germany,0.151725389
+Uruguay,Venezuela,0.049274611
+Uzbekistan,Bangladesh,0.125276382
+Uzbekistan,China,0.096276382
+Uzbekistan,Kazakhstan,0.029569576
+Uzbekistan,Russia,0.114723618
+Uzbekistan,Turkey,0.035723618
+Vanuatu,Japan,0.202529412
+Vanuatu,Thailand,0.155529412
+Venezuela,China,0.301
+Venezuela,Cuba,0.212
+Venezuela,India,0.31
+Venezuela,United States,0.009
+Vietnam,China,0.024
+Vietnam,Germany,0.124
+Vietnam,Japan,0.026
+Vietnam,United States,0.334
+Yemen,China,0.01080198
+Yemen,India,0.01980198
+Yemen,Japan,0.00880198
+Yemen,South Korea,0.00780198
+Yemen,Thailand,0.03819802
+Yemen,United States,0.29919802
+Zambia,China,0.019
+Zambia,Democratic Republic of the Congo,0
+Zambia,Republic of the Congo,0.02
+Zambia,South Korea,0.022
+Zambia,South Africa,0.217208122
+Zambia,Switzerland,0.072
+Zimbabwe,Botswana,0.032
+Zimbabwe,China,0.128
+Zimbabwe,Democratic Republic of the Congo,0.147
+Zimbabwe,Republic of the Congo,0.127
+Zimbabwe,Italy,0.059
+Zimbabwe,South Africa,0.070208122
