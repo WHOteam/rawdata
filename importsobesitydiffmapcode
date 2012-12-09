@@ -1,0 +1,102 @@
+#!/usr/bin/env python
+
+import sys
+import string
+import pygraph
+import csv
+
+# Import pygraph
+from pygraph.classes.graph import graph
+from pygraph.classes.digraph import digraph
+from pygraph.algorithms.searching import breadth_first_search
+from pygraph.readwrite.dot import write
+from pygraph.algorithms.minmax import shortest_path
+
+# Graph creation
+gr = graph()
+check = 0
+# Add nodes and edges
+data = open("obes_diffs_imp.csv")
+line = data.readline()
+line = data.readline()
+while line!= '':
+    lineda=string.split(line,',')
+    if lineda[0]!='':
+        for f in gr.nodes():
+            if f == lineda[0]:
+                check = 0
+        if check == 1 or gr.nodes()==[]:
+            gr.add_node(lineda[0])
+        check = 1
+    line = data.readline()
+
+data = open("obes_diffs_imp.csv")
+line = data.readline()
+line = data.readline()
+while line!= '':
+    lineda=string.split(line,',')
+    if lineda[1]!='':
+        for f in gr.nodes():
+            if f == lineda[1]:
+                check = 0
+        if check == 1 or gr.nodes()==[]:
+            gr.add_node(lineda[1])
+        check = 1
+    line = data.readline()
+
+
+data = open("obes_diffs_imp.csv")
+line = data.readline()
+line = data.readline()
+while line!= '':
+    lineda=string.split(line,',')
+    for f in lineda:
+        check = 1
+        if gr.edges() == []:
+            gr.add_edge((lineda[0],lineda[1]))
+            gr.set_edge_weight((lineda[0],lineda[1]),wt=float(lineda[2]))
+        for f in gr.edges():             
+            test = lineda[0]+" "+lineda[1]
+            s =string.join(f)
+            if test == s:
+                check = 0
+        if check != 0:
+            gr.add_edge((lineda[0],lineda[1]))
+            gr.set_edge_weight((lineda[0],lineda[1]),wt=float(lineda[2]))
+            check = 1
+    line = data.readline()
+
+print gr
+for f in gr.edges():
+    print gr.edge_weight(f)
+
+# Draw as PNG
+
+dot = write(gr, weighted=True)
+f = open('edges.dot', 'w')
+f.write(dot)
+f.close()
+import os
+command = '"C:\\Program Files (x86)\\Graphviz 2.28\\bin\\dot.exe" -Tpng edges.dot > obsdiffimports.png'
+print command
+os.system(command)
+os.system('obsdiffimports.png')
+
+#st, order = breadth_first_search(gr, root="United States")
+st, order = shortest_path(gr,"United States")
+with open("lengthsdataweighted.csv", "wb") as f:
+    csv.writer(f).writerows(order.iteritems())
+gst = digraph()
+gst.add_spanning_tree(st)
+dot = write(gst, weighted=True)
+f = open('edges2.dot', 'w')
+f.write(dot)
+f.close()
+
+
+import os
+command = '"C:\\Program Files (x86)\\Graphviz 2.28\\bin\\dot.exe" -Tpng edges2.dot > obsdiffimports2.png'
+print command
+os.system(command)
+os.system('obsdiffimports2.png')
+

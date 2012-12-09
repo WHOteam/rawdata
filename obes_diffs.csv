@@ -1,0 +1,587 @@
+"","country1","country2","obes_diff"
+"1","Afghanistan","China",0.014169082
+"2","Afghanistan","Iran",0.127169082
+"3","Afghanistan","Pakistan",0.019732189
+"4","Afghanistan","Tajikistan",0.070623627
+"5","Afghanistan","Turkmenistan",0.105625935
+"6","Afghanistan","Uzbekistan",0.110445464
+"7","Albania","Greece",0.009619289
+"8","Albania","Kosovo",0.215380711
+"9","Albania","Macedonia",0.065380711
+"10","Algeria","Libya",0.14049505
+"11","Algeria","Mali",0.064151415
+"12","Algeria","Mauritania",0.048869434
+"13","Algeria","Morocco",0.05049505
+"14","Algeria","Niger",0.08950495
+"15","Algeria","Tunisia",0.094873159
+"16","Andorra","France",0.067666667
+"17","Andorra","Spain",0.080666667
+"18","Angola","Democratic Republic of the Congo",0.045532995
+"19","Angola","Republic of the Congo",0.025532995
+"20","Angola","Namibia",0.025076142
+"21","Angola","Zambia",0.045532995
+"22","Argentina","Bolivia",0.079574403
+"23","Argentina","Brazil",0.264102041
+"24","Argentina","Chile",0.156102041
+"25","Argentina","Paraguay",0.2356961
+"26","Argentina","Uruguay",0.094376652
+"27","Armenia","Azerbaijan",0.038239659
+"28","Armenia","Georgia",0.044579691
+"29","Armenia","Iran",0.020780749
+"30","Armenia","Turkey",0.001780749
+"31","Austria","Czech Republic",0.041
+"32","Austria","Germany",0.019
+"33","Austria","Hungary",0.067
+"34","Austria","Italy",0.012
+"35","Austria","Slovakia",0.033
+"36","Austria","Slovenia",0.04
+"37","Austria","Switzerland",0.028
+"38","Azerbaijan","Armenia",0.038239659
+"39","Azerbaijan","Georgia",0.08281935
+"40","Azerbaijan","Iran",0.059020408
+"41","Azerbaijan","Russia",0.038979592
+"42","Azerbaijan","Turkey",0.040020408
+"43","Bangladesh","Burma",0.11
+"44","Bangladesh","India",0.02
+"45","Belarus","Latvia",0.089561497
+"46","Belarus","Lithuania",0.048561497
+"47","Belarus","Poland",0.065561497
+"48","Belarus","Russia",0.005561497
+"49","Belarus","Ukraine",0.111045368
+"50","Belgium","France",0.061
+"51","Belgium","Germany",0.021
+"52","Belgium","Luxembourg",0.05220202
+"53","Belgium","Netherlands",0.017050505
+"54","Belize","Guatemala",0.137773546
+"55","Belize","Mexico",0.086594059
+"56","Benin","Burkina Faso",0.05450495
+"57","Benin","Niger",0.04950495
+"58","Benin","Nigeria",0.01450495
+"59","Benin","Togo",0.02920192
+"60","Bhutan","China",0.088169811
+"61","Bhutan","India",0.097169811
+"62","Bolivia","Argentina",0.079574403
+"63","Bolivia","Brazil",0.184527638
+"64","Bolivia","Chile",0.076527638
+"65","Bolivia","Paraguay",0.156121697
+"66","Bolivia","Peru",0.132527638
+"67","Bosnia and Herzegovina","Croatia",0.00600000000000001
+"68","Botswana","Namibia",0.094543147
+"69","Botswana","South Africa",0.102208122
+"70","Botswana","Zimbabwe",0.032
+"71","Brazil","Argentina",0.264102041
+"72","Brazil","Bolivia",0.184527638
+"73","Brazil","Colombia",0.026
+"74","Brazil","France",0.058
+"75","Brazil","Guyana",0.022658537
+"76","Brazil","Paraguay",0.028405941
+"77","Brazil","Peru",0.052
+"78","Brazil","Suriname",0.029
+"79","Brazil","Uruguay",0.169725389
+"80","Brazil","Venezuela",0.219
+"81","Brunei","Malaysia",0.137
+"82","Bulgaria","Greece",0.101
+"83","Bulgaria","Macedonia",0.026
+"84","Bulgaria","Romania",0.038
+"85","Bulgaria","Turkey",0.037
+"86","Burkina Faso","Benin",0.05450495
+"87","Burkina Faso","Cote d'Ivoire",0.014411765
+"88","Burkina Faso","Ghana",0.039926108
+"89","Burkina Faso","Mali",0.030353535
+"90","Burkina Faso","Niger",0.005
+"91","Burkina Faso","Togo",0.02530303
+"92","Burma","Bangladesh",0.11
+"93","Burma","China",0.081
+"94","Burma","India",0.09
+"95","Burma","Laos",0.098
+"96","Burma","Thailand",0.032
+"97","Burundi","Democratic Republic of the Congo",0.000204082
+"98","Burundi","Republic of the Congo",0.019795918
+"99","Burundi","Rwanda",0.000105196
+"100","Burundi","Tanzania",0.029795918
+"101","Cambodia","Laos",0.007102041
+"102","Cambodia","Thailand",0.073102041
+"103","Cambodia","Vietnam",0.000102041
+"104","Cameroon","Central African Republic",0.109847716
+"105","Cameroon","Chad",0.099949749
+"106","Cameroon","Republic of the Congo",0.09
+"107","Cameroon","Equatorial Guinea",0.010505051
+"108","Cameroon","Gabon",0.01
+"109","Cameroon","Guinea",0.08029703
+"110","Cameroon","Niger",0.1
+"111","Cameroon","Nigeria",0.065
+"112","Canada","United States",0.108
+"113","Central African Republic","Cameroon",0.109847716
+"114","Central African Republic","Chad",0.009897967
+"115","Central African Republic","Democratic Republic of the Congo",0.000152283999999999
+"116","Central African Republic","Republic of the Congo",0.019847716
+"117","Central African Republic","Sudan",0.034723338
+"118","Chad","Cameroon",0.099949749
+"119","Chad","Central African Republic",0.009897967
+"120","Chad","Libya",0.229949749
+"121","Chad","Niger",5.02510000000012e-05
+"122","Chad","Nigeria",0.034949749
+"123","Chad","Sudan",0.024825371
+"124","Chile","Argentina",0.156102041
+"125","Chile","Bolivia",0.076527638
+"126","Chile","Peru",0.056
+"127","China","Afghanistan",0.014169082
+"128","China","Bhutan",0.088169811
+"129","China","Burma",0.081
+"130","China","India",0.009
+"131","China","Kazakhstan",0.066706806
+"132","China","North Korea",0.101
+"133","China","Kyrgyzstan",0.066685279
+"134","China","Laos",0.017
+"135","China","Mongolia",0.069
+"136","China","Nepal",0.029
+"137","China","Pakistan",0.005563107
+"138","China","Russia",0.211
+"139","China","Tajikistan",0.056454545
+"140","China","Vietnam",0.024
+"141","Colombia","Brazil",0.026
+"142","Colombia","Ecuador",0.002
+"143","Colombia","Panama",0.022405941
+"144","Colombia","Peru",0.026
+"145","Colombia","Venezuela",0.193
+"146","Democratic Republic of the Congo","Angola",0.045532995
+"147","Democratic Republic of the Congo","Burundi",0.000204082
+"148","Democratic Republic of the Congo","Central African Republic",0.000152283999999999
+"149","Democratic Republic of the Congo","Republic of the Congo",0.02
+"150","Democratic Republic of the Congo","Rwanda",0.000309278
+"151","Democratic Republic of the Congo","Sudan",0.034875622
+"152","Democratic Republic of the Congo","Tanzania",0.03
+"153","Democratic Republic of the Congo","Uganda",0
+"154","Democratic Republic of the Congo","Zambia",0
+"155","Costa Rica","Nicaragua",0.047149326
+"156","Costa Rica","Panama",0.079707359
+"157","Cote d'Ivoire","Burkina Faso",0.014411765
+"158","Cote d'Ivoire","Ghana",0.025514343
+"159","Cote d'Ivoire","Guinea",0.010291205
+"160","Cote d'Ivoire","Liberia",0.06078924
+"161","Cote d'Ivoire","Mali",0.01594177
+"162","Croatia","Bosnia and Herzegovina",0.00600000000000001
+"163","Croatia","Hungary",0.046
+"164","Croatia","Slovenia",0.073
+"165","Czech Republic","Austria",0.041
+"166","Czech Republic","Germany",0.022
+"167","Czech Republic","Poland",0.029
+"168","Czech Republic","Slovakia",0.00800000000000001
+"169","Denmark","Germany",0.015
+"170","Djibouti","Eritrea",0.012
+"171","Djibouti","Ethiopia",0.045
+"172","Djibouti","Somalia",0.02489899
+"173","Dominican Republic","Haiti",0.138293382
+"174","Ecuador","Colombia",0.002
+"175","Ecuador","Peru",0.028
+"176","Egypt","Israel",0.074
+"177","Egypt","Libya",0.053
+"178","Egypt","Sudan",0.258124378
+"179","El Salvador","Guatemala",0.138978429
+"180","El Salvador","Honduras",0.033201058
+"181","Equatorial Guinea","Cameroon",0.010505051
+"182","Equatorial Guinea","Gabon",0.020505051
+"183","Eritrea","Djibouti",0.012
+"184","Eritrea","Ethiopia",0.033
+"185","Eritrea","Sudan",0.011875622
+"186","Estonia","Latvia",0.012
+"187","Estonia","Russia",0.096
+"188","Ethiopia","Djibouti",0.045
+"189","Ethiopia","Eritrea",0.033
+"190","Ethiopia","Kenya",0.01
+"191","Ethiopia","Somalia",0.02010101
+"192","Ethiopia","Sudan",0.044875622
+"193","Finland","Norway",0.057
+"194","Finland","Russia",0.083
+"195","Finland","Sweden",0.037
+"196","France","Andorra",0.067666667
+"197","France","Belgium",0.061
+"198","France","Germany",0.04
+"199","France","Italy",0.071
+"200","France","Luxembourg",0.00879798000000001
+"201","France","Spain",0.013
+"202","France","Switzerland",0.087
+"203","Gabon","Cameroon",0.01
+"204","Gabon","Republic of the Congo",0.08
+"205","Gabon","Equatorial Guinea",0.020505051
+"206","Gabon","Guinea",0.07029703
+"207","The Gambia","Senegal",0.030505051
+"208","Georgia","Armenia",0.044579691
+"209","Georgia","Azerbaijan",0.08281935
+"210","Georgia","Russia",0.121798942
+"211","Georgia","Turkey",0.042798942
+"212","Germany","Austria",0.019
+"213","Germany","Belgium",0.021
+"214","Germany","Czech Republic",0.022
+"215","Germany","Denmark",0.015
+"216","Germany","France",0.04
+"217","Germany","Luxembourg",0.03120202
+"218","Germany","Netherlands",0.003949495
+"219","Germany","Poland",0.051
+"220","Germany","Switzerland",0.047
+"221","Ghana","Burkina Faso",0.039926108
+"222","Ghana","Cote d'Ivoire",0.025514343
+"223","Ghana","Togo",0.014623078
+"224","Greece","Albania",0.009619289
+"225","Greece","Bulgaria",0.101
+"226","Greece","Macedonia",0.075
+"227","Greece","Turkey",0.064
+"228","Guatemala","Belize",0.137773546
+"229","Guatemala","El Salvador",0.138978429
+"230","Guatemala","Honduras",0.172179487
+"231","Guatemala","Mexico",0.051179487
+"232","Guinea","Cote d'Ivoire",0.010291205
+"233","Guinea","Guinea",0
+"234","Guinea","Guinea-Bissau",0.014551455
+"235","Guinea","Liberia",0.050498035
+"236","Guinea","Mali",0.005650565
+"237","Guinea","Senegal",0.030802081
+"238","Guinea","Sierra Leone",0.061835492
+"239","Guinea-Bissau","Guinea",0.014551455
+"240","Guinea-Bissau","Senegal",0.045353536
+"241","Guyana","Brazil",0.022658537
+"242","Guyana","Suriname",0.00634146300000002
+"243","Guyana","Venezuela",0.196341463
+"244","Haiti","Dominica",0.283989899
+"245","Haiti","Dominican Republic",0.138293382
+"246","Honduras","El Salvador",0.033201058
+"247","Honduras","Guatemala",0.172179487
+"248","Honduras","Nicaragua",0.171262626
+"249","Hungary","Austria",0.067
+"250","Hungary","Croatia",0.046
+"251","Hungary","Romania",0.091
+"252","Hungary","Slovakia",0.034
+"253","Hungary","Slovenia",0.027
+"254","Hungary","Ukraine",0.042483871
+"255","India","Bangladesh",0.02
+"256","India","Bhutan",0.097169811
+"257","India","Burma",0.09
+"258","India","China",0.009
+"259","India","Nepal",0.02
+"260","India","Pakistan",0.014563107
+"261","Indonesia","Guinea",0.01570297
+"262","Indonesia","Malaysia",0.139
+"263","Indonesia","Papua New Guinea",0.020778325
+"264","Indonesia","Timor-Leste",0.099921569
+"265","Iran","Afghanistan",0.127169082
+"266","Iran","Armenia",0.020780749
+"267","Iran","Azerbaijan",0.059020408
+"268","Iran","Iraq",0.00754455399999998
+"269","Iran","Pakistan",0.107436893
+"270","Iran","Turkey",0.019
+"271","Iran","Turkmenistan",0.021543147
+"272","Iraq","Iran",0.00754455399999998
+"273","Iraq","Jordan",0.060544554
+"274","Iraq","Kuwait",0.153544554
+"275","Iraq","Saudi Arabia",0.221544554
+"276","Iraq","Syria",0.115544554
+"277","Iraq","Turkey",0.026544554
+"278","Ireland","United Kingdom",0.097
+"279","Israel","Egypt",0.074
+"280","Israel","Jordan",0.034
+"281","Israel","Lebanon",0.094
+"282","Israel","Syria",0.021
+"283","Italy","Austria",0.012
+"284","Italy","France",0.071
+"285","Italy","Slovenia",0.052
+"286","Italy","Switzerland",0.016
+"287","Jordan","Iraq",0.060544554
+"288","Jordan","Israel",0.034
+"289","Jordan","Saudi Arabia",0.161
+"290","Jordan","Syria",0.055
+"291","Kazakhstan","China",0.066706806
+"292","Kazakhstan","Kyrgyzstan",2.15270000000073e-05
+"293","Kazakhstan","Russia",0.144293194
+"294","Kazakhstan","Turkmenistan",0.024750047
+"295","Kazakhstan","Uzbekistan",0.029569576
+"296","Kenya","Ethiopia",0.01
+"297","Kenya","Somalia",0.01010101
+"298","Kenya","Sudan",0.034875622
+"299","Kenya","Tanzania",0.03
+"300","Kenya","Uganda",0
+"301","North Korea","China",0.101
+"302","North Korea","South Korea",0.098
+"303","North Korea","Russia",0.11
+"304","South Korea","North Korea",0.098
+"305","Kosovo","Albania",0.215380711
+"306","Kosovo","Macedonia",0.15
+"307","Kuwait","Iraq",0.153544554
+"308","Kyrgyzstan","China",0.066685279
+"309","Kyrgyzstan","Kazakhstan",2.15270000000073e-05
+"310","Kyrgyzstan","Tajikistan",0.010230734
+"311","Kyrgyzstan","Uzbekistan",0.029591103
+"312","Laos","Burma",0.098
+"313","Laos","Cambodia",0.007102041
+"314","Laos","China",0.017
+"315","Laos","Thailand",0.066
+"316","Laos","Vietnam",0.007
+"317","Latvia","Belarus",0.089561497
+"318","Latvia","Estonia",0.012
+"319","Latvia","Lithuania",0.041
+"320","Latvia","Russia",0.084
+"321","Lebanon","Israel",0.094
+"322","Lebanon","Syria",0.115
+"323","Lesotho","South Africa",0.027313942
+"324","Liberia","Cote d'Ivoire",0.06078924
+"325","Liberia","Guinea",0.050498035
+"326","Liberia","Sierra Leone",0.011337457
+"327","Libya","Algeria",0.14049505
+"328","Libya","Chad",0.229949749
+"329","Libya","Egypt",0.053
+"330","Libya","Niger",0.23
+"331","Libya","Sudan",0.205124378
+"332","Libya","Tunisia",0.045621891
+"333","Lithuania","Belarus",0.048561497
+"334","Lithuania","Latvia",0.041
+"335","Lithuania","Poland",0.017
+"336","Lithuania","Russia",0.043
+"337","Luxembourg","Belgium",0.05220202
+"338","Luxembourg","France",0.00879798000000001
+"339","Luxembourg","Germany",0.03120202
+"340","Macedonia","Albania",0.065380711
+"341","Macedonia","Bulgaria",0.026
+"342","Macedonia","Greece",0.075
+"343","Macedonia","Kosovo",0.15
+"344","Malawi","Mozambique",0.000359489000000001
+"345","Malawi","Tanzania",0.024974874
+"346","Malawi","Zambia",0.005025126
+"347","Malaysia","Brunei",0.137
+"348","Malaysia","Indonesia",0.139
+"349","Malaysia","Thailand",0.085
+"350","Mali","Algeria",0.064151415
+"351","Mali","Burkina Faso",0.030353535
+"352","Mali","Cote d'Ivoire",0.01594177
+"353","Mali","Guinea",0.005650565
+"354","Mali","Mauritania",0.113020849
+"355","Mali","Niger",0.025353535
+"356","Mali","Senegal",0.025151516
+"357","Mauritania","Algeria",0.048869434
+"358","Mauritania","Mali",0.113020849
+"359","Mauritania","Morocco",0.001625616
+"360","Mauritania","Senegal",0.087869333
+"361","Mexico","Belize",0.086594059
+"362","Mexico","Guatemala",0.051179487
+"363","Mexico","United States",0.103
+"364","Moldova","Romania",0.064
+"365","Moldova","Ukraine",0.015483871
+"366","Mongolia","China",0.069
+"367","Mongolia","Russia",0.142
+"368","Morocco","Algeria",0.05049505
+"369","Morocco","Spain",0.004
+"370","Mozambique","Malawi",0.000359489000000001
+"371","Mozambique","South Africa",0.211823507
+"372","Mozambique","Swaziland",0.095635793
+"373","Mozambique","Tanzania",0.024615385
+"374","Mozambique","Zambia",0.005384615
+"375","Mozambique","Zimbabwe",0.141615385
+"376","Namibia","Angola",0.025076142
+"377","Namibia","Botswana",0.094543147
+"378","Namibia","South Africa",0.196751269
+"379","Namibia","Zambia",0.020456853
+"380","Nepal","China",0.029
+"381","Nepal","India",0.02
+"382","Netherlands","Belgium",0.017050505
+"383","Netherlands","Germany",0.003949495
+"384","Nicaragua","Costa Rica",0.047149326
+"385","Nicaragua","Honduras",0.171262626
+"386","Niger","Algeria",0.08950495
+"387","Niger","Benin",0.04950495
+"388","Niger","Burkina Faso",0.005
+"389","Niger","Chad",5.02510000000012e-05
+"390","Niger","Libya",0.23
+"391","Niger","Mali",0.025353535
+"392","Niger","Niger",0
+"393","Niger","Nigeria",0.035
+"394","Nigeria","Benin",0.01450495
+"395","Nigeria","Cameroon",0.065
+"396","Nigeria","Chad",0.034949749
+"397","Nigeria","Niger",0.035
+"398","Norway","Finland",0.057
+"399","Norway","Russia",0.14
+"400","Norway","Sweden",0.02
+"401","Oman","United Arab Emirates",0.21769869
+"402","Oman","Yemen",0.07949933
+"403","Pakistan","China",0.005563107
+"404","Pakistan","India",0.014563107
+"405","Pakistan","Iran",0.107436893
+"406","Panama","Colombia",0.022405941
+"407","Panama","Costa Rica",0.079707359
+"408","Papua New Guinea","Indonesia",0.020778325
+"409","Paraguay","Argentina",0.2356961
+"410","Paraguay","Bolivia",0.156121697
+"411","Paraguay","Brazil",0.028405941
+"412","Peru","Bolivia",0.132527638
+"413","Peru","Brazil",0.052
+"414","Peru","Chile",0.056
+"415","Peru","Colombia",0.026
+"416","Peru","Ecuador",0.028
+"417","Poland","Belarus",0.065561497
+"418","Poland","Czech Republic",0.029
+"419","Poland","Germany",0.051
+"420","Poland","Lithuania",0.017
+"421","Poland","Russia",0.06
+"422","Poland","Slovakia",0.037
+"423","Poland","Ukraine",0.045483871
+"424","Portugal","Spain",0.014
+"425","Romania","Bulgaria",0.038
+"426","Romania","Hungary",0.091
+"427","Romania","Moldova",0.064
+"428","Romania","Ukraine",0.048516129
+"429","Russia","Azerbaijan",0.038979592
+"430","Russia","Belarus",0.005561497
+"431","Russia","China",0.211
+"432","Russia","Estonia",0.096
+"433","Russia","Finland",0.083
+"434","Russia","Georgia",0.121798942
+"435","Russia","Kazakhstan",0.144293194
+"436","Russia","North Korea",0.11
+"437","Russia","Latvia",0.084
+"438","Russia","Lithuania",0.043
+"439","Russia","Mongolia",0.142
+"440","Russia","Norway",0.14
+"441","Russia","Poland",0.06
+"442","Russia","Ukraine",0.105483871
+"443","Rwanda","Burundi",0.000105196
+"444","Rwanda","Democratic Republic of the Congo",0.000309278
+"445","Rwanda","Republic of the Congo",0.019690722
+"446","Rwanda","Tanzania",0.029690722
+"447","Rwanda","Uganda",0.000309278
+"448","Saudi Arabia","Iraq",0.221544554
+"449","Saudi Arabia","Jordan",0.161
+"450","Saudi Arabia","Kuwait",0.068
+"451","Saudi Arabia","Oman",0.23669869
+"452","Saudi Arabia","Qatar",0.134058968
+"453","Saudi Arabia","United Arab Emirates",0.019
+"454","Saudi Arabia","Yemen",0.31619802
+"455","Senegal","The Gambia",0.030505051
+"456","Senegal","Guinea",0.030802081
+"457","Senegal","Guinea-Bissau",0.045353536
+"458","Senegal","Mali",0.025151516
+"459","Senegal","Mauritania",0.087869333
+"460","Sierra Leone","Guinea",0.061835492
+"461","Sierra Leone","Liberia",0.011337457
+"462","Slovakia","Austria",0.033
+"463","Slovakia","Czech Republic",0.00800000000000001
+"464","Slovakia","Hungary",0.034
+"465","Slovakia","Poland",0.037
+"466","Slovakia","Ukraine",0.00848387099999998
+"467","Slovenia","Austria",0.04
+"468","Slovenia","Croatia",0.073
+"469","Slovenia","Hungary",0.027
+"470","Slovenia","Italy",0.052
+"471","Somalia","Djibouti",0.02489899
+"472","Somalia","Ethiopia",0.02010101
+"473","Somalia","Kenya",0.01010101
+"474","South Africa","Botswana",0.102208122
+"475","South Africa","Lesotho",0.027313942
+"476","South Africa","Mozambique",0.211823507
+"477","South Africa","Namibia",0.196751269
+"478","South Africa","Swaziland",0.116187714
+"479","South Africa","Zimbabwe",0.070208122
+"480","Spain","Andorra",0.080666667
+"481","Spain","France",0.013
+"482","Spain","Morocco",0.004
+"483","Spain","Portugal",0.014
+"484","Sudan","Central African Republic",0.034723338
+"485","Sudan","Chad",0.024825371
+"486","Sudan","Egypt",0.258124378
+"487","Sudan","Eritrea",0.011875622
+"488","Sudan","Ethiopia",0.044875622
+"489","Sudan","Libya",0.205124378
+"490","Sudan","Sudan",0
+"491","Suriname","Brazil",0.029
+"492","Suriname","France",0.029
+"493","Suriname","Guyana",0.00634146300000002
+"494","Swaziland","Mozambique",0.095635793
+"495","Swaziland","South Africa",0.116187714
+"496","Sweden","Finland",0.037
+"497","Sweden","Norway",0.02
+"498","Switzerland","Austria",0.028
+"499","Switzerland","France",0.087
+"500","Switzerland","Germany",0.047
+"501","Switzerland","Italy",0.016
+"502","Syria","Iraq",0.115544554
+"503","Syria","Israel",0.021
+"504","Syria","Jordan",0.055
+"505","Syria","Lebanon",0.115
+"506","Syria","Turkey",0.089
+"507","Tajikistan","Afghanistan",0.070623627
+"508","Tajikistan","China",0.056454545
+"509","Tajikistan","Kyrgyzstan",0.010230734
+"510","Tajikistan","Uzbekistan",0.039821837
+"511","Tanzania","Burundi",0.029795918
+"512","Tanzania","Democratic Republic of the Congo",0.03
+"513","Tanzania","Republic of the Congo",0.01
+"514","Tanzania","Kenya",0.03
+"515","Tanzania","Malawi",0.024974874
+"516","Tanzania","Mozambique",0.024615385
+"517","Tanzania","Rwanda",0.029690722
+"518","Tanzania","Uganda",0.03
+"519","Tanzania","Zambia",0.03
+"520","Thailand","Burma",0.032
+"521","Thailand","Cambodia",0.073102041
+"522","Thailand","Laos",0.066
+"523","Thailand","Malaysia",0.085
+"524","Timor-Leste","Indonesia",0.099921569
+"525","Togo","Benin",0.02920192
+"526","Togo","Burkina Faso",0.02530303
+"527","Togo","Ghana",0.014623078
+"528","Tunisia","Algeria",0.094873159
+"529","Tunisia","Libya",0.045621891
+"530","Turkey","Armenia",0.001780749
+"531","Turkey","Azerbaijan",0.040020408
+"532","Turkey","Bulgaria",0.037
+"533","Turkey","Georgia",0.042798942
+"534","Turkey","Greece",0.064
+"535","Turkey","Iran",0.019
+"536","Turkey","Iraq",0.026544554
+"537","Turkey","Syria",0.089
+"538","Turkmenistan","Afghanistan",0.105625935
+"539","Turkmenistan","Iran",0.021543147
+"540","Turkmenistan","Kazakhstan",0.024750047
+"541","Turkmenistan","Uzbekistan",0.00481952899999999
+"542","Uganda","Democratic Republic of the Congo",0
+"543","Uganda","Republic of the Congo",0.02
+"544","Uganda","Kenya",0
+"545","Uganda","Rwanda",0.000309278
+"546","Uganda","Sudan",0.034875622
+"547","Uganda","Tanzania",0.03
+"548","Ukraine","Belarus",0.111045368
+"549","Ukraine","Hungary",0.042483871
+"550","Ukraine","Moldova",0.015483871
+"551","Ukraine","Poland",0.045483871
+"552","Ukraine","Romania",0.048516129
+"553","Ukraine","Russia",0.105483871
+"554","Ukraine","Slovakia",0.00848387099999998
+"555","United Arab Emirates","Oman",0.21769869
+"556","United Arab Emirates","Saudi Arabia",0.019
+"557","United Kingdom","Ireland",0.097
+"558","United States","Canada",0.108
+"559","United States","Mexico",0.103
+"560","Uruguay","Argentina",0.094376652
+"561","Uruguay","Brazil",0.169725389
+"562","Uzbekistan","Afghanistan",0.110445464
+"563","Uzbekistan","Kazakhstan",0.029569576
+"564","Uzbekistan","Kyrgyzstan",0.029591103
+"565","Uzbekistan","Tajikistan",0.039821837
+"566","Uzbekistan","Turkmenistan",0.00481952899999999
+"567","Venezuela","Brazil",0.219
+"568","Venezuela","Colombia",0.193
+"569","Venezuela","Guyana",0.196341463
+"570","Vietnam","Cambodia",0.000102041
+"571","Vietnam","China",0.024
+"572","Vietnam","Laos",0.007
+"573","Yemen","Oman",0.07949933
+"574","Yemen","Saudi Arabia",0.31619802
+"575","Zambia","Angola",0.045532995
+"576","Zambia","Democratic Republic of the Congo",0
+"577","Zambia","Republic of the Congo",0.02
+"578","Zambia","Malawi",0.005025126
+"579","Zambia","Mozambique",0.005384615
+"580","Zambia","Namibia",0.020456853
+"581","Zambia","Tanzania",0.03
+"582","Zambia","Zimbabwe",0.147
+"583","Zimbabwe","Botswana",0.032
+"584","Zimbabwe","Mozambique",0.141615385
+"585","Zimbabwe","South Africa",0.070208122
+"586","Zimbabwe","Zambia",0.147

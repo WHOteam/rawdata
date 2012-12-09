@@ -1,150 +1,176 @@
-Canada,8893
-Turkmenistan,10646
-Lithuania,8831
-Cambodia,11456
-Ethiopia,11945
-Swaziland,13653
-Argentina,8604
-Bolivia,8530
-Cameroon,12148
-Burkina Faso,11339
-Ghana,11888
-Saudi Arabia,10165
-Slovenia,8760
-Guatemala,3657
-Bosnia and Herzegovina,9385
-Guinea,10914
-Germany,8284
-Spain,8194
-Liberia,11477
-Netherlands,8744
-Oman,10841
-Tanzania,13162
-Gabon,12446
-Monaco,8077
-Yemen,11129
-Pakistan,10563
-Albania,9241
-United Arab Emirates,10622
-Uruguay,8411
-India,11567
-Azerbaijan,9342
-Democratic Republic of The Congo,12928
-Kenya,12573
-South Korea,9314
-Tajikistan,10906
-Turkey,9351
-Afghanistan,10568
-Czech Republic,8982
-Eritrea,11781
-Mongolia,12601
-France,8073
-Rwanda,12945
-Slovakia,8785
-Somalia,11948
-Peru,7499
-Laos,10915
-Norway,9254
-Cote d'Ivoire,11524
-Benin,11033
-Lesotho,14948
-Montenegro,9152
-Togo,11465
-China,10492
-Armenia,9619
-Ukraine,8875
-Indonesia,14547
-Libya,10793
-Finland,9981
-Central African Republic,11351
-Republic of The Congo,11818
+Canada,0.108
+Sao Tome and Principe,0.303747475
+Turkmenistan,0.218543147
+Lithuania,0.142
+Cambodia,0.334102014
+Republic of the Congo,0.309
+Ethiopia,0.338999973
+The Gambia,0.299
+Sri Lanka,0.338999973
+Argentina,0.036102041
+Bolivia,0.043472362
+Cameroon,0.219
+Burkina Faso,0.324
+Bahrain,0.056659574
+Saudi Arabia,0.017
+Cape Verde,0.232125
+Slovenia,0.189
+Guatemala,0.051820513
+Bosnia and Herzegovina,0.122
+Kuwait,0.051
+Germany,0.21
+Dominica,0.056
+Liberia,0.365201005
+Netherlands,0.213949495
+Jamaica,0.054918367
+Oman,0.21969869
+Tanzania,0.299
+Seychelles,0.122
+Gabon,0.229
+New Zealand,0.074
+Yemen,0.29919802
+Pakistan,0.304436893
+Albania,0.123619289
+Samoa,0.171909091
+United Arab Emirates,0.002
+India,0.318999973
+Azerbaijan,0.137979592
+Madagascar,0.317999973
+Lesotho,0.13910582
+Saint Vincent and the Grenadines,0.184643564
+Kenya,0.328999973
+South Korea,0.307
+Tajikistan,0.253545455
+Turkey,0.178
+Afghanistan,0.324169055
+Czech Republic,0.188
+Eritrea,0.306
+Solomon Islands,0.225859903
+Saint Lucia,0.075734694
+Hungary,0.162
+Cyprus,0.216
+Mongolia,0.241
+France,0.17
+Rwanda,0.328690695
+Slovakia,0.196
+Somalia,0.318898963
+Peru,0.176
+Vanuatu,0.105470588
+Norway,0.239
+Malawi,0.323974847
+Benin,0.26949505
+Singapore,0.27
+Saint Kitts and Nevis,0.143343434
+Togo,0.29869697
+China,0.309999973
+Armenia,0.176219251
+Dominican Republic,0.089696517
+Ukraine,0.204483871
+Ghana,0.284073892
+Tonga,0.221
+Finland,0.182
+Libya,0.089
+Indonesia,0.314999973
+Central African Republic,0.328847716
 United States,0
-Liechtenstein,8659
-Vietnam,11773
-Mali,11003
-Russia,9058
-Bulgaria,9238
-Romania,9305
-Angola,12019
-Portugal,9408
-South Africa,14039
-Sweden,10595
-Malaysia,12765
-Senegal,10584
-Mozambique,13548
-Uganda,12776
-Hungary,8862
-Niger,10767
-Brazil,7343
-Kuwait,9943
-Panama,5474
-Costa Rica,5144
-Luxembourg,8146
-Andorra,8130
-Nigeria,11806
-Ecuador,6289
-Bangladesh,11343
-Brunei,13146
-Belarus,9345
-Iran,9654
-Algeria,9811
-El Salvador,3860
-Chile,7670
-Belgium,8294
-Thailand,12259
-Belize,3391
-Sierra Leone,11566
-Georgia,9603
-Denmark,8352
-Poland,8740
-Moldova,9755
-Morocco,8210
-Croatia,9177
-Guinea-Bissau,10922
-Switzerland,8618
-Iraq,9703
-Chad,11848
-Estonia,9348
-Kosovo,9231
-Equatorial Guinea,12337
-Lebanon,10201
-Uzbekistan,10705
-Egypt,10388
-Djibouti,11890
-Timor-Leste,14775
-Colombia,5699
-Burundi,13161
-Nicaragua,4835
-Qatar,10225
-Italy,8561
-Bhutan,10962
-Sudan,11176
-Nepal,11728
-Suriname,7936
-Venezuela,7749
-Israel,10122
-Zambia,13129
-Austria,8694
-Papua New Guinea,15367
-Malawi,13637
-Zimbabwe,13926
-Jordan,9884
-Gambia,11324
-Kazakhstan,11025
-Mauritania,9771
-Kyrgyzstan,11350
-Macedonia,9090
-North Korea,9076
-Latvia,9350
-South Sudan,12341
-Guyana,8492
-Syria,10173
-Burma,11150
-Honduras,3913
-Mexico,3141
-Tunisia,10776
-Serbia,9028
-Greece,9336
-Paraguay,8708
-Namibia,13362
-Botswana,14722
+Sweden,0.219
+Belarus,0.104561497
+Mali,0.293646465
+Russia,0.099
+Bulgaria,0.215
+Mauritius,0.188292929
+Romania,0.253
+Angola,0.283467005
+Chad,0.318949722
+South Africa,0.111791878
+Fiji,0.1
+Malaysia,0.176
+Senegal,0.268494949
+Vietnam,0.333999973
+Mozambique,0.323615358
+Uganda,0.328999973
+Japan,0.308
+Niger,0.318999973
+Brazil,0.228
+The Bahamas,0.049
+Panama,0.179594059
+Costa Rica,0.0998867
+Luxembourg,0.17879798
+Ireland,0.209
+Nigeria,0.284
+Ecuador,0.204
+Bangladesh,0.338999973
+Brunei,0.313
+Australia,0.175
+Iran,0.197
+Algeria,0.22949505
+El Salvador,0.190798942
+Chile,0.12
+Belgium,0.231
+Thailand,0.261
+Haiti,0.227989899
+Belize,0.189594059
+Sierra Leone,0.237461538
+Georgia,0.220798942
+Denmark,0.225
+Philippines,0.296
+Moldova,0.189
+Morocco,0.179
+Croatia,0.116
+Guinea-Bissau,0.313848458
+Switzerland,0.257
+Grenada,0.164
+Iraq,0.204544554
+Portugal,0.197
+Estonia,0.195
+Uruguay,0.058274611
+Mexico,0.103
+Lebanon,0.204
+Uzbekistan,0.213723618
+Tunisia,0.134621891
+Djibouti,0.294
+Antigua and Barbuda,0.247421053
+Spain,0.183
+Colombia,0.202
+Burundi,0.328795891
+Taiwan,0.338999973
+Nicaragua,0.052737374
+Barbados,0.061412371
+Qatar,0.117058968
+Italy,0.241
+Sudan,0.294124378
+Laos,0.326999973
+Malta,0.132
+Democratic Republic of the Congo,0.328999973
+Maldives,0.174841584
+Suriname,0.199
+Venezuela,0.009
+Israel,0.11
+Iceland,0.215
+Zambia,0.328999973
+Austria,0.229
+Papua New Guinea,0.294221675
+Cote d'Ivoire,0.309588235
+Zimbabwe,0.182
+Jordan,0.144
+Kazakhstan,0.243293194
+Poland,0.159
+Mauritania,0.180625616
+Kyrgyzstan,0.243314694
+Macedonia,0.189
+North Korea,0.209
+Trinidad and Tobago,0.025358974
+Latvia,0.183
+Guyana,0.205341463
+Syria,0.089
+Nepal,0.338999973
+Burma,0.229
+Honduras,0.224
+Equatorial Guinea,0.208494949
+Egypt,0.036
+Cuba,0.221
+United Kingdom,0.112
+Greece,0.114
+Paraguay,0.199594059
+Guinea,0.29929703
+Comoros,0.279199005
