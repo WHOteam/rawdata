@@ -13,7 +13,7 @@ from pygraph.readwrite.dot import write
 from pygraph.algorithms.minmax import shortest_path
 
 # Graph creation
-gr = graph()
+gr = digraph()
 check = 0
 # Add nodes and edges
 data = open("obes_diffs_imp.csv")
@@ -30,7 +30,7 @@ while line!= '':
         check = 1
     line = data.readline()
 
-data = open("obes_diffs_imp.csv")
+data = open("obes_diffs_exp.csv")
 line = data.readline()
 line = data.readline()
 while line!= '':
@@ -45,7 +45,7 @@ while line!= '':
     line = data.readline()
 
 
-data = open("obes_diffs_imp.csv")
+data = open("obes_diffs_exp.csv")
 line = data.readline()
 line = data.readline()
 while line!= '':
@@ -66,12 +66,21 @@ while line!= '':
             check = 1
     line = data.readline()
 
-print gr
-for f in gr.edges():
-    print gr.edge_weight(f)
-
+#print gr
+#for f in gr.edges():
+#    print gr.edge_weight(f)
 # Draw as PNG
-
+outputter=dict()
+for f in gr.nodes():
+    lesser=gr.node_order(f)
+    dex=0
+    for something in gr.incidents(f):
+        dex = dex+1
+    totaltrade = int(dex)-int(lesser)
+    outputter[f]= totaltrade
+with open("numberoftradersexport.csv", "wb") as f:
+    csv.writer(f).writerows(outputter.iteritems())
+'''
 dot = write(gr, weighted=True)
 f = open('edges.dot', 'w')
 f.write(dot)
@@ -100,3 +109,4 @@ print command
 os.system(command)
 os.system('obsdiffimports2.png')
 
+'''
