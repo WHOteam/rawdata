@@ -16,15 +16,16 @@ from pygraph.algorithms.minmax import shortest_path
 gr = graph()
 
 # Add nodes and edges
-data = open("borders.csv")
+data = open("imports_redo.csv")
 line = data.readline()
 line = data.readline()
 while line!= '':
     lineda=string.split(line,',')
     if lineda[0]!='':
         gr.add_node(lineda[0])
-    line = data.readline()    
-data = open("borders.csv")
+    line = data.readline()
+
+data = open("imports_redo.csv")
 line = data.readline()
 line = data.readline()
 while line!= '':
@@ -36,7 +37,7 @@ while line!= '':
             check = 1
             if gr.edges() == []:
                 gr.add_edge((lineda[0],b[0]))
-                gr.set_edge_weight((lineda[0],b[0]),wt=int(b[1]))
+                gr.set_edge_weight((lineda[0],b[0]),wt=float(b[1]))
             for f in gr.edges():             
                 test = lineda[0]+" "+b[0]
                 s =string.join(f)
@@ -44,7 +45,7 @@ while line!= '':
                     check = 0
             if check != 0:
                 gr.add_edge((lineda[0],b[0]))
-                gr.set_edge_weight((lineda[0],b[0]),wt=int(b[1]))
+                gr.set_edge_weight((lineda[0],b[0]),wt=float(b[1]))
                 check = 1
     line = data.readline()
 
@@ -66,7 +67,7 @@ os.system('edges.png')
 '''
 #st, order = breadth_first_search(gr, root="United States")
 st, order = shortest_path(gr,"United States")
-with open("lengthsdataweighted.csv", "wb") as f:
+with open("importsredoprocess.csv", "wb") as f:
     csv.writer(f).writerows(order.iteritems())
 gst = digraph()
 gst.add_spanning_tree(st)
