@@ -2,18 +2,21 @@
 
 #might need this if numbers have commas in them
 # total_imports <- transform(total_imports, V3 = gsub("\\$    ","",total_imports$V3))
-total_imports <- transform(total_imports, V3 = as.numeric(total_imports$V3))
 
 #start loop
-vec <- rep(NA,190)
+vec <- rep(NA,194)
 
-for (i in 1:length(lengthsdataweighted[,1]))
+for (i in 1:length(blah[,1]))
 {
-  for (j in 1:190)
+  for (j in 1:194)
   {
-    if (as.character(lengthsdataweighted$V1[i]) == as.character(obesity$Country[j]))
+    if (as.character(blah$countryname[i]) == as.character(flag$country[j]))
     {
-      vec[j] <- lengthsdataweighted$V2[i]
+      
+      if (is.na(flag$fertility[j]))
+        {vec[j] <- blah$frate[i]}
+      else
+        {vec[j] <- flag$fertility[j]}
     }
   }
 }
@@ -21,5 +24,8 @@ for (i in 1:length(lengthsdataweighted[,1]))
 print(vec)
 
 # only run this line when you are sure that vec looks okay!
-obesity <- transform(obesity,USborderdegrees_wtd_bl=vec)
-viewData(obesity)
+flag <- transform(flag,fertility=vec)
+viewData(flag)
+
+vec[4] <- 3.10
+vec[7] <- 1.75

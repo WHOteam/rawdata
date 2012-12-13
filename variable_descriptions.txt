@@ -1,0 +1,22 @@
+obrate - the % of adults (18 and over) in the country who have BMI over 30
+ppgdp - the GDP divided by the population, in USD
+uwchildren - % of children under age 5 who are underweight
+education_xp - % of GDP spent on education
+inflation - rate of inflation
+gini_index - measure of income inequality for families
+pop_growth - % population growth per year
+internet_users - # total internet users in the country
+health_xp - % of GDP spent on health care
+birth_rate - # births per 1000 population
+elec_consum - total electricity consumption in the country
+fertility - # children per woman
+youth_unemployment - % of age 16-24 who are unemployed
+population - total population
+ppimports - total imports divided by total population (USD)
+USborderdegrees - the smallest number of edges from the country to the USA on the borders graph
+USborderdegrees_wtd_bl - the shortest path to USA on the borders graph, weighted by border length in KM
+exportpartnersdiff - # of countries who majorly export to there, minus the # countries it majorly exports to
+importpartnersdiff - # of countries who majorly import from there, minus the # countries it majorly imports from
+USimportdegrees_wtd_per - ?? can't remember, but we took log(log(
+in_import_differential - the average absolute difference in obesity rate between the country and the countries it imports from
+out_export_differential - the average absolute difference in obesity rate between the country and the countries it exports to
