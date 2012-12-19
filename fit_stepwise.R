@@ -14,3 +14,6 @@ model <- lm(obrate~birth_fertility+population+USborderpath+import_diff+export_di
 #create stepwise model without them
 
 model_w <- lm(obrate~birth_fertility+population+pop_growth+logimports+loggdp,data=obesity_update)
+
+#test difference with anova
+anova(model,model_w)
