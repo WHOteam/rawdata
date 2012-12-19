@@ -20,3 +20,6 @@ importpartnersdiff - # of countries who majorly import from there, minus the # c
 USimportdegrees_wtd_per - shortest path to the USA on the imports graph, weighted by %
 in_import_differential - the average absolute difference in obesity rate between the country and the countries it imports from
 out_export_differential - the average absolute difference in obesity rate between the country and the countries it exports to
+borders -
+border_differential
+border_average
